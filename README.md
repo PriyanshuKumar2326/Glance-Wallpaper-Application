@@ -124,7 +124,7 @@ This project is licensed under the MIT License.
 
 **Amul**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/PriyanshuKumar2326
 
 ---
 
