@@ -33,7 +33,7 @@ Developed a React-based web application that fetches and displays random high-qu
 ## 📁 Project Structure
 
 ```
-Random-Image-Generator
+Glance-Wallpaper-Application
 │
 ├── Client
 │   ├── src
